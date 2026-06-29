@@ -13,7 +13,8 @@
 
 ## Validation:
 <img width="762" height="585" alt="AD Users and Computers" src="https://github.com/user-attachments/assets/03e13025-3e9c-4562-98c1-249af93d9bbf" />
-**Active Directory** - Users and Computers successful setup
+
+** Active Directory ** - Users and Computers successful setup
 
 -----
 
