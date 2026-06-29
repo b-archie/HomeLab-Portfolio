@@ -19,6 +19,7 @@
 -----
 
 <img width="927" height="603" alt="DNS Manager" src="https://github.com/user-attachments/assets/8441067e-6509-4e38-9ef1-4fd118205f72" />
+
 **DNS Manager** - DNS successful setup
 
 -----
