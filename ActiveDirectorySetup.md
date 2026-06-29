@@ -1,17 +1,17 @@
 # HomeLab-Portfolio
 
-# Objectives:
+## Objectives:
 - Install Active Directory
 - Promote server to Domain Controller
 - Configure DNS
 
-# Steps Performed:
+## Steps Performed:
 - Installed AD DS role
 - Promoted server to Domain Controller
 - Created domain
 - Verified DNS functionality
 
-# Validation:
+## Validation:
 <img width="762" height="585" alt="AD Users and Computers" src="https://github.com/user-attachments/assets/03e13025-3e9c-4562-98c1-249af93d9bbf" />
 - Active Directory - Users and Computers successful setup
 
