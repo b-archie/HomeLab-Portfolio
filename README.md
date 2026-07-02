@@ -10,7 +10,6 @@ The lab includes:
 - Dynamic Host Configuration Protocol (DHCP)
 - Organizational Unit (OU) structure
 - Group Policy Objects (GPO)
-- Local Administrator Password Solution (LAPS)
 - Delegation of Control
 - Domain-joined Windows 11 workstation
 - VMware NAT networking
@@ -26,5 +25,4 @@ The lab includes:
 - Active Directory
 - DNS
 - Group Policy Management
-- LAPS
-- PowerShell
+
